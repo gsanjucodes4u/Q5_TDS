@@ -1,0 +1,11 @@
+{
+  "prompt": "Editorial oil painting of a factory conveyor belt carrying green broccoli, where most of the broccoli falls dramatically into a deep, shadowy waste pit while only a few pieces continue toward a distant packaging area, showing a strong visual imbalance with overwhelming loss, mood: heavy, somber, and suffocating, color palette: desaturated grey-green tones with deep shadows and subtle cold blue undertones, composition: rule of thirds with the waste pit dominating the lower-left foreground, broccoli cascading downward into darkness, and a small distant area of processed produce in the upper-right background, large areas of negative space surrounding the pit to emphasize emptiness and loss, no text, no labels, no legends, no axes, no numbers visible in image, no charts, no graphs, no infographic elements",
+  
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  
+  "dataset_name": "Food Loss and Waste Dataset",
+  
+  "dataset_url": "https://www.fao.org/platform-food-loss-waste/flw-data/en/",
+  
+  "insight": "In Australia, up to 65% of broccoli is lost during the processing stage, highlighting a massive inefficiency in the food supply chain."
+}
